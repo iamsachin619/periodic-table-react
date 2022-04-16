@@ -400,7 +400,7 @@ export default function App() {
             <br />
             Ra
           </td>
-          <td class="element color_4" colspan="2" onClick={handleOpen}>
+          <td class="element color_4" colspan="2">
             89-103
             <br />
             &nbsp;
