@@ -648,6 +648,8 @@ export default function App() {
               <Loader content="loading" />
             ) : (
               <div>
+                Name : {data.name}
+                <br />
                 symbol : {data.symbol}
                 <br />
                 electronicConfiguration : {data.electronicConfiguration}
